@@ -2,7 +2,7 @@
 This project implements a simple Convolutional Neural Network (CNN) to classify animal images using the Animal Image Classification Dataset. It is designed as a beginner-friendly project to understand basic image preprocessing, CNN model building, and performance evaluation using TensorFlow and Keras in Google Colab.
 ## Animal Image Classifier using CNN
 
-This project builds a simple Convolutional Neural Network (CNN) to classify animal images using the [Animal Image Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset). It is ideal for students or beginners interested in computer vision.
+This project builds a simple Convolutional Neural Network (CNN) to classify animal images using the [Animal Image Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset). 
 
 ## Project Objectives
 
