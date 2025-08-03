@@ -31,7 +31,8 @@ This project builds a simple Convolutional Neural Network (CNN) to classify anim
 
 ## Model Training Graph
 
-![Training and Validation Accuracy](training_validation_graph.png)
+![Training and Validation Accuracy](<img width="567" height="455" alt="training and validation graph" src="https://github.com/user-attachments/assets/6d983da1-e294-4ee5-a802-081235c22c20" />
+)
 
 ##  Dataset
 
